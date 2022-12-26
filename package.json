@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "horizon",
+  "version": "1.0.0",
+  "description": "platform",
+  "main": "node.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaik",
+  "license": "ISC"
+}
